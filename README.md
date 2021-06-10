@@ -2,4 +2,10 @@
 
 ## 첫번째 버전(commit) 만들기
 
-- *Commit*
+- Clone
+- Commit
+- Push
+- Fetch
+- Pull
+- Branch
+- Merge
