@@ -8,4 +8,5 @@
 - Fetch
 - Pull(서버에서 로컬 PC로 내리는 과정)
 - Branch
-- Conflict
+- Merge Conflict
+
