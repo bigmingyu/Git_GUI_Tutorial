@@ -11,4 +11,4 @@
 - Checkout
 - Merge
 - Merge Conflict : Meld
-- Edit from GitHub
+- Rebase
